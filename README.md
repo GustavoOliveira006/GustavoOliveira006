@@ -7,10 +7,10 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens & Web:** JavaScript, HTML5, CSS3, noções de Python e C#
-- **Bancos de Dados:** SQL, Supabase, PostgreSQL
-- **Automação & Integrações:** APIs REST, JSON, Google Apps Script, n8n
-- **Ferramentas & Infra:** Git/GitHub, Docker, GLPI, Zabbix
+- **Linguagens & Web:** JavaScript, HTML5, CSS3 e Python 
+- **Bancos de Dados:** SQL, Supabase e PostgreSQL
+- **Automação & Integrações:** APIs REST, JSON, Google Apps Script e n8n
+- **Ferramentas & Infra:** Git/GitHub, Docker, GLPI e Zabbix
 
 ---
 
